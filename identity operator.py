@@ -10,4 +10,10 @@ if(type(x) is not float):
 else:
     print("false")
 
-
+x=20
+y=20
+if(x is y):
+    print("x & y have same identity")
+else:
+    print("x&y  have different identity")
+    
